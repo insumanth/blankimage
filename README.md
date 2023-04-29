@@ -1,3 +1,7 @@
 # blankimage
 Blank Image Generator CLI
-Version : 0.1.1
+version : 0.1.2
+
+
+Generate Blank Image of any size and color from CLI.
+

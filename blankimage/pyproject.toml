@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "blankimage"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python Command Line Tool to Generate Blank Images"
 authors = ["Sumanth <sumanthreddystar@gmail.com>"]
 maintainers  = ["Sumanth <sumanthreddystar@gmail.com>"]
@@ -26,7 +26,7 @@ classifiers = [
 
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.7"
 ril = "^0.4.0"
 
 
@@ -36,5 +36,5 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry.scripts]
-my_package_cli = 'blankimage.parse_cli_options:main'
+blankimage = 'blankimage.parse_cli_options:main'
 

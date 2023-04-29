@@ -36,5 +36,5 @@ docs = ["furo", "sphinx", "sphinx-copybutton", "sphinxext-opengraph"]
 
 [metadata]
 lock-version = "2.0"
-python-versions = "^3.10"
-content-hash = "17ec6cfc9ed9e009e702a0fcfea4187c47da47c69acf26cec62b4c329baca541"
+python-versions = "^3.7"
+content-hash = "874d1c4cd6114fb478a719ea9e3e6584976fae9c271028c14f76cc00461500a2"
